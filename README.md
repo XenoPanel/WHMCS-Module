@@ -5,6 +5,8 @@ View how to setup and configure the module here:
 
 https://xenopanel.com/documentation/installation/whmcs
 
+The Module uses XenoPanel API meaning this module will NOT work for FREE licenses.
+
 Custom Options:
 - get_minecraft (Input Box)
 - get_username (Input Box)
