@@ -14,3 +14,4 @@ Custom Options:
 - get_dedicated (TickBox)
 - get_location (Dropdown)
 - get_game (Dropdown)
+- get_slots (Dropdown or Input) [b13 and higher..]
