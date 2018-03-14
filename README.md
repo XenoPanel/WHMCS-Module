@@ -3,7 +3,7 @@ Free version of the XenoPanel WHMCS Module
 
 View how to setup and configure the module here:
 
-https://xenopanel.com/documentation/installation/whmcs
+https://houston.xenopanel.com/d/14-install-xenopanel-whmcs-module
 
 The Module uses XenoPanel API meaning this module will NOT work for FREE licenses.
 
