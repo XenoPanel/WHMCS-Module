@@ -1,18 +1,5 @@
-## WHMCS-Module
-Free version of the XenoPanel WHMCS Module
+## WHMCS-Module (OUTDATED!)
 
-View how to setup and configure the module here:
+Please visit the link below for the updated WHMCS Module using APIv2 of XenoPanel.
 
-https://houston.xenopanel.com/d/14-install-xenopanel-whmcs-module
-
-The Module uses XenoPanel API meaning this module will NOT work for FREE licenses.
-
-Custom Options:
-
-- Minecraft Username (Input Box)
-- Username (Input Box)
-- Server Name (Input Box)
-- Dedicated IP (TickBox)
-- Server Location (Dropdown)
-- Source Game (Dropdown)
-- Server Slots (Dropdown or Input) [b13 and higher..]
+https://github.com/XenoPanel/WHMCS-Module-apiv2
